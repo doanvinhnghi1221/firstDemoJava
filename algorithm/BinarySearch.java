@@ -26,6 +26,6 @@ private static int  binarysearch(int arr[], int x) {
         System.out.println();
         System.out.println("tìm thấy 55 tại index: " + binarysearch(arr, 55));
     }
-}
+}hihi
 
 
